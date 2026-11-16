@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 372" role="img" aria-labelledby="title desc">
+  <title id="title">黑龙江东部公路铁路示意图</title>
+  <desc id="desc">哈尔滨与佳木斯以哈同高速和哈佳铁路相连。从佳木斯可经牡佳高铁到双鸭山西站。通往友谊的普速铁路由东佳木斯经佳富铁路到福利屯，再接福前铁路到新友谊站。线路与距离不按比例。</desc>
+  <rect width="760" height="372" fill="#f5f7ef"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+    <text x="34" y="44" fill="#203b31" font-size="26" font-weight="700">黑龙江东部交通</text>
+    <text x="34" y="70" fill="#55665a" font-size="16">示意图 · 线路与距离不按比例</text>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M83 139H396Q453 139 478 125L631 90H717" stroke="#35614a" stroke-width="5.5"/>
+      <path d="M396 139Q421 139 442 159L461 176H606M490 176V251Q490 267 474 267H466Q450 267 450 283" stroke="#35614a" stroke-width="4.5"/>
+      <path d="M83 173H279H322Q351 173 372 207" stroke="#674c83" stroke-width="5"/>
+      <path d="M279 173C306 173 304 241 336 241H427" stroke="#9c491d" stroke-width="4.5" stroke-dasharray="8 7"/>
+      <path d="M427 241H606Q626 241 643 213L677 181H717" stroke="#9c491d" stroke-width="4.5" stroke-dasharray="8 7"/>
+      <path d="M372 207V254L450 283M606 176V241" stroke="#99a698" stroke-width="2" stroke-dasharray="2 6"/>
+    </g>
+    <g fill="#e3ebe1" stroke="#a4b4a5" stroke-width="1">
+      <rect x="71" y="127" width="24" height="58" rx="12"/><rect x="267" y="127" width="24" height="58" rx="12"/>
+    </g>
+    <g fill="#f5f7ef" stroke="#35614a" stroke-width="3">
+      <circle cx="83" cy="139" r="5"/><circle cx="279" cy="139" r="5"/><circle cx="396" cy="139" r="5"/>
+      <circle cx="631" cy="90" r="5"/><circle cx="450" cy="283" r="5"/>
+    </g>
+    <g fill="#f5f7ef" stroke="#674c83" stroke-width="3">
+      <circle cx="83" cy="173" r="5"/><circle cx="279" cy="173" r="5"/><circle cx="372" cy="207" r="6"/>
+    </g>
+    <g fill="#f5f7ef" stroke="#9c491d" stroke-width="3">
+      <rect x="422" y="236" width="10" height="10" rx="2"/><rect x="601" y="236" width="10" height="10" rx="2"/>
+    </g>
+    <circle cx="606" cy="176" r="8.5" fill="#a13527" stroke="#f5f7ef" stroke-width="2"/>
+    <g fill="#203b31" font-size="21" font-weight="700" text-anchor="middle">
+      <text x="83" y="113">哈尔滨</text><text x="279" y="113">佳木斯</text>
+      <text x="396" y="119">集贤</text><text x="631" y="75">富锦</text><text x="708" y="75">同江</text>
+      <text x="606" y="152" fill="#a13527" font-size="25">友谊县</text><text x="519" y="291">双鸭山市区</text>
+    </g>
+    <g fill="#54665b" font-size="16" font-weight="600">
+      <text x="108" y="159">G1011 哈同高速</text>
+      <text x="108" y="197" fill="#674c83">哈佳铁路</text>
+      <text x="475" y="165">G221 一带</text>
+      <text x="290" y="264" fill="#93451c">佳富铁路</text>
+      <text x="427" y="228" text-anchor="middle" fill="#93451c">福利屯站</text>
+      <text x="516" y="228" fill="#93451c">福前铁路</text>
+      <text x="606" y="264" text-anchor="middle" fill="#93451c">新友谊站</text>
+      <text x="383" y="202" fill="#674c83">双鸭山西站</text>
+    </g>
+    <path d="M34 315H726" stroke="#d3ded1"/>
+    <g font-size="17" fill="#30473a">
+      <path d="M36 342h28" stroke="#35614a" stroke-width="4.5"/><text x="72" y="348">公路</text>
+      <path d="M171 342h28" stroke="#674c83" stroke-width="4.5"/><text x="207" y="348">动车线路</text>
+      <path d="M350 342h28" stroke="#9c491d" stroke-width="4.5" stroke-dasharray="7 6"/><text x="386" y="348">普速铁路</text>
+      <path d="M541 342h28" stroke="#99a698" stroke-width="2" stroke-dasharray="2 6"/><text x="577" y="348">城区或站间接续</text>
+    </g>
+  </g>
+</svg>
